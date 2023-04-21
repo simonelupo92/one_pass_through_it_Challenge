@@ -1,0 +1,1 @@
+Buildato con : docker build -t esempio .
